@@ -20,7 +20,7 @@ O segundo programa é realizar a soma do ano do nascimento dos acadêmicos do gr
 entregar a soma como saída.
 
 ## Avaliação: 
-Foi gravado um vídeo de 7 minutos com todos
+Foi gravado um vídeo de menos que 7 minutos com todos
 explicando o código. O vídeo foi postado no youtube.<br>
 Link do vídeo: **[TDE1 - Assembly Mars MIPS](https://youtu.be/KB2DlPgj75c)**<br>
 *Para melhor experiência é recomendado que se assista o vídeo em 1080p.
